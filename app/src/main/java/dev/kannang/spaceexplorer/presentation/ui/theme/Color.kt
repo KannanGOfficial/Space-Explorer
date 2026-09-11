@@ -1,4 +1,4 @@
-package dev.kannang.spaceexplorer.ui.theme
+package dev.kannang.spaceexplorer.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
